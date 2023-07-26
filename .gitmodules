@@ -76,3 +76,6 @@
 [submodule "mcpelauncher-errorwindow"]
 	path = mcpelauncher-errorwindow
 	url = https://github.com/minecraft-linux/mcpelauncher-errorwindow.git
+[submodule "libc-shim"]
+	path = libc-shim
+	url = https://github.com/woniuzfb/libc-shim
